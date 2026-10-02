@@ -63,6 +63,20 @@ dotnet run
 
 5. Open the local URL displayed in the terminal.
 
+
+### Student Management Dashboard
+
+![CampusTrack Dashboard](screenshots/dashboard.png)
+
+### Additional Dashboard View
+
+![CampusTrack Dashboard 2](screenshots/dashboard2.png)
+
+### API Testing with Swagger
+
+![Swagger API](screenshots/swagger-api.png)
+
+
 ### API Endpoints
 
 | Method | Endpoint | Description |
