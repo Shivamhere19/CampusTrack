@@ -66,7 +66,7 @@ dotnet run
 
 ### Student Management Dashboard
 
-![CampusTrack Dashboard](screenshots/dashboard.png)
+![CampusTrack Dashboard](screenshots/dashboard1.png)
 
 ### Additional Dashboard View
 
